@@ -1,0 +1,6 @@
+{
+    "tessdata_path": "/Users/rajatverma/Documents/BharatGen Tools/model_weights",
+    "language": "san",
+    "psm": 3,
+    "auto_ocr": true
+}

@@ -1,0 +1,16 @@
+{
+    "pdf_filename": "Screenshot 2026-04-14 at 11.17.14.png",
+    "page_number": 1,
+    "total_pages": 1,
+    "default_zoom": 75,
+    "line_segments": [
+        {
+            "index": 0,
+            "x": 269,
+            "y": 718,
+            "width": 620,
+            "height": 36
+        }
+    ],
+    "timestamp": 1776145813184
+}

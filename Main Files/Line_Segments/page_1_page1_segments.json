@@ -1,0 +1,44 @@
+{
+    "pdf_filename": "page_1.pdf",
+    "page_number": 1,
+    "total_pages": 1,
+    "default_zoom": 75,
+    "line_segments": [
+        {
+            "index": 0,
+            "x": 0,
+            "y": 333,
+            "width": 1684,
+            "height": 69
+        },
+        {
+            "index": 1,
+            "x": 0,
+            "y": 447,
+            "width": 1684,
+            "height": 65
+        },
+        {
+            "index": 2,
+            "x": 0,
+            "y": 565,
+            "width": 1684,
+            "height": 68
+        },
+        {
+            "index": 3,
+            "x": 0,
+            "y": 673,
+            "width": 1684,
+            "height": 62
+        },
+        {
+            "index": 4,
+            "x": 0,
+            "y": 772,
+            "width": 1684,
+            "height": 74
+        }
+    ],
+    "timestamp": 1773058155835
+}
